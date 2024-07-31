@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Django migration files
+*/migrations/
+
+# Environment variable files
+.env
+
+# Database files
+db.sqlite3
+
+# Django static and media files
+static/
+media/
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# MacOS specific files
+.DS_Store
+
+# VS Code specific files
+.vscode/
+
+# IDE files (you can customize this based on your IDE)
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# PyCharm specific files
+*.idea/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
